@@ -1,0 +1,313 @@
+* {
+    margin: 0;
+}
+
+/*---------------Header/Footer-----------------*/
+
+header {
+    position: sticky;
+    top: 0;
+}
+
+nav {
+    display: flex;
+    height: 35px;
+    background-color: rgb(46, 46, 46);
+    padding: 25px 5px;
+}
+
+#logo {
+    width: 40px;
+    height: 35px;
+}
+
+nav h1 {
+    font-family: "Potta One", sans-serif;
+    margin-top: -9px;
+    font-size: 35px;
+}
+
+#hl {
+    margin: 0 20px;
+    font-family: "Roboto", sans-serif;
+}
+
+.hlinks {
+    margin-left: 50%;
+    margin-top: 5px;
+}
+
+.hhr {
+    width: 0;
+    height: 35px;
+    margin: 0 5px;
+}
+
+footer {
+    display: flex;
+    height: 30px;
+    background-color: rgb(46, 46, 46);
+    padding: 10px 5px;
+    text-align: center;
+}
+
+.devider {
+    margin: 30px 10px;
+    height: 1px;
+    border: 0;
+    background-color: rgb(170, 170, 170);
+}
+
+/*---------------------Body/Div/Section-----------------*/
+
+body {
+    background-color: rgb(70, 72, 85);
+    color: white;
+    font-size: 20px;
+}
+
+div {
+    font-family: "Roboto", sans-serif;
+}
+
+button {
+    cursor: pointer;
+}
+
+h2 {
+    margin-bottom: 5px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+#art {
+    background-color: rgb(0, 153, 255);
+    color: white;
+    font-size: 20px;
+    border: 0;
+    border-radius: 5px;
+    align-items: center;
+    height: 40px;
+    width: 74px;
+    margin: 0 45%;
+}
+
+.art {
+    padding: 10px;
+    margin: 30px 27%;
+    border: 2px solid rgb(170, 170, 170);
+    border-radius: 5px;
+    width: 700px;
+}
+
+#fl {
+    background-color: rgb(0, 153, 255);
+    color: white;
+    font-size: 20px;
+    border: 0;
+    border-radius: 5px;
+    height: 45px;
+    width: 100px;
+    margin: 30px 0;
+    margin-left: 90%;
+}
+
+
+#cts {
+    width: 325px;
+    font-size: 25px;
+    display: inline-block;
+    text-align: center;
+}
+
+.cts {
+    display: flex;
+    background-color: rgb(54, 55, 65);
+    margin: 5px;
+    padding: 10px 5px;
+    border-radius: 5px;
+}
+
+#anm {
+    margin: 30px 460px;
+}
+
+.anm {
+    border: 2px solid rgb(170, 170, 170);
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+#png {
+    width: 30px;
+    padding-right: 7px;
+}
+
+#cata {
+    text-align: center;
+    font-family: "Potta One", sans-serif;
+}
+
+
+/*-------------------------------------------------------------*/
+
+ 
+@media screen and (max-width: 600px) {
+    * {
+        margin: 0;
+    }
+    
+    /*---------------Header/Footer-----------------*/
+    
+    header {
+        position: sticky;
+        top: 0;
+    }
+    
+    nav {
+        display: flex;
+        height: 35px;
+        background-color: rgb(46, 46, 46);
+        padding: 25px 5px;
+    }
+    
+    #logo {
+        width: 40px;
+        height: 35px;
+    }
+    
+    nav h1 {
+        font-family: "Potta One", sans-serif;
+        margin-top: -9px;
+        font-size: 10px;
+    }
+    
+    #hl {
+        margin: 0 20px;
+        font-family: "Roboto", sans-serif;
+    }
+    
+    .hlinks {
+        margin-left: 50%;
+        margin-top: 5px;
+    }
+    
+    .hhr {
+        width: 0;
+        height: 35px;
+        margin: 0 5px;
+    }
+    
+    footer {
+        display: flex;
+        height: 30px;
+        background-color: rgb(46, 46, 46);
+        padding: 10px 5px;
+        text-align: center;
+    }
+    
+    .devider {
+        margin: 30px 10px;
+        height: 1px;
+        border: 0;
+        background-color: rgb(170, 170, 170);
+    }
+    
+    /*---------------------Body/Div/Section-----------------*/
+    
+    body {
+        background-color: rgb(70, 72, 85);
+        color: white;
+        font-size: 20px;
+    }
+    
+    div {
+        font-family: "Roboto", sans-serif;
+    }
+    
+    button {
+        cursor: pointer;
+    }
+    
+    h2 {
+        margin-bottom: 5px;
+    }
+    
+    a {
+        text-decoration: none;
+        color: white;
+    }
+    
+    #art {
+        background-color: rgb(0, 153, 255);
+        color: white;
+        font-size: 20px;
+        border: 0;
+        border-radius: 5px;
+        align-items: center;
+        height: 40px;
+        width: 74px;
+        margin: 0 45%;
+    }
+    
+    .art {
+        padding: 10px;
+        margin: 30px 27%;
+        border: 2px solid rgb(170, 170, 170);
+        border-radius: 5px;
+        width: 700px;
+    }
+    
+    #fl {
+        background-color: rgb(0, 153, 255);
+        color: white;
+        font-size: 20px;
+        border: 0;
+        border-radius: 5px;
+        height: 45px;
+        width: 100px;
+        margin: 30px 0;
+        margin-left: 90%;
+    }
+    
+    
+    #cts {
+        width: 325px;
+        font-size: 25px;
+        display: inline-block;
+        text-align: center;
+    }
+    
+    .cts {
+        display: flex;
+        background-color: rgb(54, 55, 65);
+        margin: 5px;
+        padding: 10px 5px;
+        border-radius: 5px;
+    }
+    
+    #anm {
+        margin: 30px 460px;
+    }
+    
+    .anm {
+        border: 2px solid rgb(170, 170, 170);
+        padding: 10px;
+        border-radius: 5px;
+        margin-top: 10px;
+    }
+    
+    #png {
+        width: 30px;
+        padding-right: 7px;
+    }
+    
+    #cata {
+        text-align: center;
+        font-family: "Potta One", sans-serif;
+    }
+}
