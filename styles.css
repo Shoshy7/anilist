@@ -54,6 +54,7 @@ nav h1 {
 
 body {
     background-color: rgb(70, 72, 85);
+    font-family: "Roboto";
     font-size: 20px;
     color: white;
     height: 100vh;
@@ -96,10 +97,15 @@ a {
     border: 1px solid white;
 }
 
+.detail {
+    margin: 0 100px;
+}
+
 #dit {
     padding: 30px;
 }
 
 .alp {
     color: rgb(139, 139, 139);
+    margin: 50px 0;
 }
