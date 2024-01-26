@@ -72,3 +72,17 @@ a {
     color: lightsalmon;
     margin-bottom: 20px;
 }
+
+#dit {
+    text-align: center;
+    color: palegreen;
+}
+
+.order {
+    display: flex;
+}
+
+#order {
+    padding: 2px 3px;
+    border: 1px solid white;
+}
