@@ -43,6 +43,13 @@ nav h1 {
     margin: 0 5px;
 }
 
+.devider {
+    margin: 30px 10px;
+    height: 1px;
+    border: 0;
+    background-color: rgb(170, 170, 170);
+}
+
 /*----------------------Body/Div/Section----------------------*/
 
 body {
@@ -80,6 +87,8 @@ a {
 
 .order {
     display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
 }
 
 #order {
