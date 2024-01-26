@@ -83,6 +83,14 @@ a {
 }
 
 #order {
-    padding: 2px 3px;
+    padding: 2px 10px;
     border: 1px solid white;
+}
+
+#dit {
+    padding: 30px;
+}
+
+.alp {
+    color: rgb(139, 139, 139);
 }
