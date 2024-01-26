@@ -58,6 +58,10 @@ footer {
     background-color: rgb(170, 170, 170);
 }
 
+.edit {
+    text-align: right;
+}
+
 /*---------------------Body/Div/Section-----------------*/
 
 body {
