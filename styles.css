@@ -108,4 +108,9 @@ a {
 .alp {
     color: rgb(139, 139, 139);
     margin: 50px 0;
+    margin-bottom: 5px;
+}
+
+.name {
+    margin-left: 10px;
 }
