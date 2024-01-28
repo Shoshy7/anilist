@@ -114,3 +114,7 @@ a {
 .name {
     margin-left: 10px;
 }
+
+.stats {
+    justify-content: center;
+}
