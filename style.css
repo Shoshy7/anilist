@@ -121,6 +121,17 @@ a {
     margin-left: 90%;
 }
 
+#st {
+    background-color: rgb(0, 153, 255);
+    color: white;
+    font-size: 20px;
+    border: 0;
+    border-radius: 5px;
+    height: 45px;
+    width: 100px;
+    margin: 30px 0;
+    margin-left: 90%;
+}
 
 #cts {
     width: 325px;
